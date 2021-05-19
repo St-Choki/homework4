@@ -2,12 +2,12 @@
 {
     color: #EE58B6;
 }
+
 .color_text_checkbox
 {
     display: grid;
     text-align: left;
     color: white;
-
 }
 /*<навигация>*/
 .navi
@@ -20,12 +20,14 @@
     font-family: 'Montserrat', sans-serif;
     box-sizing: border-box;
 }
+
 .navi_image_logo
 {
     position: absolute; /* Абсолютное позиционирование */
     left: 120px; /* Положение от левого края */
     top: 38px;
 }
+
 .navi_main
 {
     position: absolute; /* Абсолютное позиционирование */
@@ -35,8 +37,8 @@
     align-items: center;
     list-style-type: none;
     flex-direction: row;
-
 }
+
 .navi_button
 {
     width: 237px;
@@ -53,11 +55,12 @@
     padding: 40px;
     margin: 40px;
 }
+
 .bloc_top_content
 {
     padding: 30px;
-
 }
+
 .bloc_top_content_text
 {
     font-style: normal;
@@ -65,6 +68,7 @@
     font-size: 80px;
     font-family: 'Montserrat', sans-serif;
 }
+
 .bloc_top_content_text_p
 {
     font-family: 'Roboto Condensed', sans-serif;
@@ -72,6 +76,7 @@
     font-weight: normal;
     font-size: 20px;
 }
+
 .bloc_top_button
 {
     display: flex;
@@ -86,6 +91,7 @@
     align-items: center;
     font-family: 'Montserrat', sans-serif;
 }
+
 .bloc_top_image_done
 {
     width: 612px;
@@ -105,6 +111,7 @@
     font-family: 'Roboto Condensed', sans-serif;
     box-sizing: border-box;
 }
+
 .bloc_description_time
 {
     justify-content: center;
@@ -112,21 +119,21 @@
     align-items: center;
     padding: 50px;
 }
+
 .bloc_description_notebook
 {
     justify-content: center;
     text-align: center;
     align-items: center;
     padding: 50px;
-
 }
+
 .bloc_description_target
 {
     justify-content: center;
     text-align: center;
     align-items: center;
     padding: 50px;
-
 }
 
 /*< контент блока фото >*/
@@ -138,26 +145,31 @@
     text-align: center;
     box-sizing: border-box;
 }
+
 .bloc_photo_finances
 {
     width: 421px;
     height: 363px;
 }
+
 .bloc_photo_f_text
 {
     padding: 30px;
 }
-.bloc_photo_f_h
+
+.bloc_photo_f_h_text
 {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     font-size: 40px;
 }
-.bloc_photo_f_p
+
+.bloc_photo_f_p_text
 {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
 }
+
 .bloc_photo_m
 {
     display: flex;
@@ -166,24 +178,28 @@
     text-align: center;
     box-sizing: border-box;
 }
+
 .bloc_photo_m_text
 {
     padding: 30px;
     box-sizing: border-box;
 }
-.bloc_photo_m_h
+
+.bloc_photo_m_h_text
 {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     font-size: 40px;
     box-sizing: border-box;
 }
-.bloc_photo_m_p
+
+.bloc_photo_m_p_text
 {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
     box-sizing: border-box;
 }
+
 .bloc_photo_mindblowing
 {
     width: 396px;
@@ -200,12 +216,14 @@
     padding: 10px;
     box-sizing: border-box;
 }
+
 .bloc_grid_h
 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 48px;
 }
+
 .bloc_grid_vector
 {
     padding: 10px;
@@ -226,10 +244,12 @@
     text-align: center;
     box-sizing: border-box;
 }
+
 .bloc_learn_h
 {
     font-family: 'Montserrat', sans-serif;
 }
+
 .bloc_learn_p
 {
     font-family: 'Roboto Condensed', sans-serif
@@ -245,6 +265,7 @@
     font-style: normal;
     box-sizing: border-box;
 }
+
 .bloc_form_text
 {
     display: flex;
@@ -254,10 +275,12 @@
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
 }
+
 .bloc_form_grid
 {
     display: flex;
 }
+
 .bloc_form_button
 {
     width: 265px;
@@ -267,6 +290,7 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
 }
+
 .bloc_form_button_course
 {
     background: black;
@@ -287,6 +311,7 @@
     padding: 80px;
     box-sizing: border-box;
 }
+
 .bloc_bottom
 {
     background: black;
@@ -296,14 +321,17 @@
     justify-content: center;
     align-items: center;
 }
+
 .bloc_about_image
 {
     border-radius: 550px;
 }
+
 .bloc_about_text_h
 {
     font-family: 'Montserrat', sans-serif;
 }
+
 .bloc_about_logo
 {
     width: 48px;
